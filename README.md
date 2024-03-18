@@ -1,4 +1,4 @@
-## DataKepp - A Next.js App with CRUD, Drag & Drop and Authentication
+## File Keeper - A Next.js App with CRUD, Drag & Drop and Authentication
 
 This project is a React application built with Next.js 14 that utilizes various technologies to provide a rich user experience.
 
