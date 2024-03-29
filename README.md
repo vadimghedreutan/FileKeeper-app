@@ -6,7 +6,7 @@ This project is a React application built with Next.js 14 that utilizes various 
 
 -   Frontend: React, Next.js 14
 -   Authentication: Clerk
--   State Management: Shadcn (Optional - Specify if using)
+-   Shadcn/ui
 -   Database: Firebase
 -   Features: Drag & Drop, CRUD Operations (Create, Read, Update, Delete)
 -   Type Safety: TypeScript
