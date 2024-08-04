@@ -4,8 +4,8 @@ import { ThemeToggler } from "./ThemeToggler"
 
 function Header() {
 	return (
-		<header className="px-3 py-10 max-w-7xl mx-auto w-full">
-			<div className="flex items-center justify-between">
+		<header className="max-w-7xl mx-auto w-full">
+			<div className="flex items-center justify-between px-5 py-10">
 				<Link href="/">
 					<h1 className="text-lg font-bold">FileKeeper</h1>
 				</Link>
